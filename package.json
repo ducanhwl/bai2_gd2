@@ -1,0 +1,12 @@
+{
+  "name": "bai2",
+  "version": "1.0.0",
+  "description": "HTTP server Node.js thuần trả về trang thông tin sinh viên",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["nodejs", "http", "server", "bai2"],
+  "author": "Nguyễn Văn An",
+  "license": "MIT"
+}
